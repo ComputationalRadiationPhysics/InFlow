@@ -1,7 +1,7 @@
 
 # InFlow: Robust outlier detection utilizing Normalizing Flows
 
-We provide the code for training and evaluating our InFlow model on CIFAR 10 dataset. 
+We provide the code for training and evaluating the InFlow model on CIFAR 10 dataset. 
 
 ## Requirements
 
