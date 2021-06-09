@@ -24,11 +24,11 @@ To train the InFlow model once the dataset preparation is complete, run the foll
 ```train
 python train.py 
 ```
-Note: You need to change the path name with the path where the datasets are placed in the project directory
+Note: You need to change the path with respect to the folder where datasets are placed in the project directory
 
 ## Evaluation
 
-After the training is complete and to evaluate our trained InFlow model on several datasets, run the following command:
+To evaluate the trained InFlow model on several datasets, run the following command:
 
 ```eval
 python eval.py 
