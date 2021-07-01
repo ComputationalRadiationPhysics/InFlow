@@ -15,7 +15,7 @@ To run our experimental code, you need the following python packages:
 * sklearn
 
 
-All the above packages can be installed using ```pip``` command. To set up the environment, you need to download the publicly available torchvision datasets such as MNIST, FashionMNIST, SVHN, CIFAR-10 etc as image files and keep each of the datasets in separate folders of the project directory. 
+All the above packages can be installed using ```pip``` command. To set up the environment, you need to download the publicly available torchvision datasets such as MNIST, FashionMNIST, SVHN, CIFAR-10 etc as image files and keep each of the datasets in separate folders of the project directory. The CIFAR-10 train and test images can be downloaded from [Kaggle](https://www.kaggle.com/c/cifar-10/data).
 
 ## Training
 
